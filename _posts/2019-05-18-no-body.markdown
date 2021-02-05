@@ -8,6 +8,8 @@ alt: image-alt
 project-date: May 2019
 publisher: Scrambler Books
 publisher_url: https://www.thescrambler.com/no-body-in-particular.html
+buy_url: https://www.thescrambler.com/no-body-in-particular.html
+button_text: Buy Here!
 category: Poetry
 description: in her debut poetry collection, giovanna lomanto discovers, debunks, and later rediscovers conceptions of herself. this highly personal work encompasses an ideology of perspective, and her emphasis on thought and feeling throughout the book exemplifies suffering and satisfaction, trials and triumphs. she presents the poems as a dialogue between herself and the reader, instigating a conversation between words and their impact. though many of the poems are inspired by events unique to her life, she invites her readers to share in a joint experience of emotion.
 ---
