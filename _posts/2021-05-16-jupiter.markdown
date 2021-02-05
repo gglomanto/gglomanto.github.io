@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 3
+title: jupiter fell out of the sky last night
+date: 2021-01-16
+img: jupiter.png
+alt: image-alt
+project-date: April 2021
+publisher: Bound to Brew
+publisher_url: https://boundtobrew.com/
+category: Poetry
+description: <i>jupiter fell out the sky last night</i> is giovanna lomanto’s second collection of poetry. her sophomore foray investigates how the internal affects the external (and vice versa) and focuses on the beauties of sensation—physical, emotional, and all of the space in between. the poems are dedicated to the identification of exploration, investigating deep within and asking questions of the far out. evocative and emotive, giovanna’s poetry is dedicated to celebrating the beauty of capturing moments and feelings through metaphoric description or mimetic invocation.
+---
