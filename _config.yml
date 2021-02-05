@@ -33,9 +33,9 @@ color:
 # Footer settings
 footer:
   # copyright: Dr. Henry Jekyll
-  location: Location
-  social: Find Me on the Web!
-  credits: Credits
+  location: location
+  social: connect with me
+  credits: credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -47,12 +47,12 @@ social:
     url: \# # http://facebook.com/giovanna_lomanto TODO
 
 # Postal address (add as many lines as necessary)
-# address:
-#   - line: 3481 Melrose Place
-#   - line: Beverly Hills, CA 90210
+address:
+  - line: the universe, the milky way galaxy
+  - line: the solar system, jupiter
 
 # Credits content
-credits: '<a href="https://jekyllthemes.io/theme/freelancer-theme">Freelancer Theme</a>, maintained by <a href="http://adjchen.com">Mighty Chen</a>.'
+credits: '<a href="https://jekyllthemes.io/theme/freelancer-theme">freelancer theme</a>, maintained by <a href="http://adjchen.com">mighty chen</a>.'
 
 # Build settings
 markdown: kramdown
